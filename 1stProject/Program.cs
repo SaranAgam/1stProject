@@ -8,7 +8,7 @@ namespace _1stProject
         {
             Console.WriteLine("Write your city name: ");
             string city = Console.ReadLine();
-            Console.WriteLine("You are from: " (city));
+            Console.WriteLine("You are from: " + city);
         }
 
     }
