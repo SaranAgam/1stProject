@@ -6,9 +6,9 @@ namespace _1stProject
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter any alphabhet: ");
-            string city = Console.Read();
-            Console.Write("You are from: " + city);
+            Console.Write("Enter any key: ");
+            int key = Console.Read();
+            Console.WriteLine("Key value: " + key );
         }
 
     }
