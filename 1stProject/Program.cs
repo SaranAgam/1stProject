@@ -6,7 +6,7 @@ namespace _1stProject
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter any key from : ");
+            Console.Write("Enter any key from keyboard : ");
             int key = Console.Read();
             Console.WriteLine("Key ascii value: " + key );
         }
