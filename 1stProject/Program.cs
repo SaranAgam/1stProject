@@ -8,7 +8,7 @@ namespace _1stProject
         {
             Console.Write("Enter any key from keyboard : ");
             int key = Console.Read();
-            Console.WriteLine("Key ascii value: " + key );
+            Console.WriteLine("The ascii  value: " + key );
         }
 
     }
