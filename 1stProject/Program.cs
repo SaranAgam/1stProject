@@ -10,8 +10,9 @@ namespace _1stProject
             int num1 = Convert.ToInt32(Console.ReadLine());
             int num2 = Convert.ToInt32(Console.ReadLine());
             int sum = num1 + num2;
+            int difference = num1 - num2;
             Console.WriteLine("The sum of 2 numbers is: " + sum);
-            Console.WriteLine("The sum of 2 numbers is: " + sum);
+            Console.WriteLine("The difference of 2 numbers is: " + difference);
         }
 
     }
