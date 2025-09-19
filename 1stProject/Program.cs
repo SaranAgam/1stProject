@@ -16,7 +16,7 @@ namespace _1stProject
             Console.WriteLine("The sum of 2 numbers is: " + sum);
             Console.WriteLine("The difference of 2 numbers is: " + difference);
             Console.WriteLine("The product of 2 numbers is: " + product);
-            Console.WriteLine("The sum of 2 numbers is: " + quotient);
+            Console.WriteLine("The of 2 numbers is: " + quotient);
         }
 
     }
