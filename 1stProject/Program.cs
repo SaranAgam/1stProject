@@ -12,7 +12,7 @@ namespace _1stProject
             int sum = num1 + num2;
             int difference = num1 - num2;
             int product = num1 * num2;
-            int quotient = num1 / num2;
+            double quotient = num1 / num2;
             Console.WriteLine("The sum of 2 numbers is: " + sum);
             Console.WriteLine("The difference of 2 numbers is: " + difference);
             Console.WriteLine("The product of 2 numbers is: " + product);
