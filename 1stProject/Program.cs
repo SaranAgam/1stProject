@@ -7,11 +7,11 @@ namespace _1stProject
         static void Main(string[] args)
         {
             Console.WriteLine("Enter any 2 numbers from keyboard : ");
-            double num1 = Convert.ToInt32(Console.ReadLine());
-            double num2 = Convert.ToInt32(Console.ReadLine());
-            int sum = num1 + num2;
-            int difference = num1 - num2;
-            int product = num1 * num2;
+            double num1 = Convert.ToDouble(Console.ReadLine());
+            double num2 = Convert.ToDouble(Console.ReadLine());
+            double sum = num1 + num2;
+            double difference = num1 - num2;
+            double product = num1 * num2;
             double quotient = num1 / num2;
             Console.WriteLine("The sum of 2 numbers is: " + sum);
             Console.WriteLine("The difference of 2 numbers is: " + difference);
