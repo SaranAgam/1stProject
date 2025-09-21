@@ -7,7 +7,7 @@ namespace _1stProject
         static void Main(string[] args)
         {
             Console.WriteLine("Enter any 2 numbers from keyboard : ");
-            double num1 = Convert.ToDouble(A Console.ReadLine());
+            double num1 = Convert.ToDouble(Console.ReadLine());
             double num2 = Convert.ToDouble(Console.ReadLine());
             double sum = num1 + num2;
             double difference = num1 - num2;
