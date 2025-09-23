@@ -4,7 +4,7 @@ namespace _1stProject
 {
     internal class Program
     {
-        static void Main(string[])
+        static void Main()
         {
             Console.WriteLine("Enter any 2 numbers from keyboard : ");
             double num1 = Convert.ToDouble(Console.ReadLine());
