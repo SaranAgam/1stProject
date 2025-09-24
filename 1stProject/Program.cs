@@ -6,7 +6,7 @@ namespace _1stProject
     {
         static void Main()
         {
-            Console.WriteLine("Enter any 2 numbers from keyboard : ");
+            Console.WriteLine("Enter any 2 numbers from keyboard: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
             double num2 = Convert.ToDouble(Console.ReadLine());
             double sum = num1 + num2;
