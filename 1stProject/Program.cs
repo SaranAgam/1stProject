@@ -15,7 +15,7 @@ namespace _1stProject
             double quotient = num1/num2;
             Console.WriteLine("The sum of given 2 numbers: " + sum);
             Console.WriteLine("The difference of given 2 numbers: " + difference);
-            Console.WriteLine("The product of given: " + product);
+            Console.WriteLine("The product of : " + product);
             Console.WriteLine("The quotient of given: " + quotient);
         }
 
