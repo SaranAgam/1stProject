@@ -16,7 +16,7 @@ namespace _1stProject
             Console.WriteLine("sum of: " + sum);
             Console.WriteLine("difference of: " + difference);
             Console.WriteLine("product of: " + product);
-            Console.WriteLine("The quotient of: " + quotient);
+            Console.WriteLine("quotient of: " + quotient);
         }
 
     }
