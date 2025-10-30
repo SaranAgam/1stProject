@@ -11,7 +11,6 @@ namespace _1stProject
             double num2 = Convert.ToDouble(Console.ReadLine());
             double sum = num1+num2;
             double difference = num1-num2;
-            double 
             Console.WriteLine("Sum of the given: " + sum);
             Console.WriteLine("Difference of the given: " + difference);
             Console.WriteLine("Product of the: " + product);
