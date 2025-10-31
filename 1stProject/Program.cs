@@ -13,7 +13,7 @@ namespace _1stProject
             double difference = num1-num2;
             Console.WriteLine("Sum of the given: " + sum);
             Console.WriteLine("Difference of the given: " + difference);
-            Console.WriteLine("Product of the: " + product);
+            Console.WriteLine("Product of the: " + 
         }
 
     }
