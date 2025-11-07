@@ -10,7 +10,6 @@ namespace _1stProject
             double num1 = Convert.ToDouble(Console.ReadLine());
             double num2 = Convert.ToDouble(Console.ReadLine());
             double sum = num1+num2;
-            double 
          
         }
 
