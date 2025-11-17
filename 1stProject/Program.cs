@@ -8,7 +8,7 @@ namespace _1stProject
         {
             Console.Write("Enter any 2 numbers from keyboard: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
-            double num2 = Conve
+            double num2 = Co
 
          
         }
