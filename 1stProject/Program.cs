@@ -7,7 +7,7 @@ namespace _1stProject
         static void Main()
         {
             Console.Write("Enter any 2 numbers from keyboard: ");
-            double num1 = Convert.
+            double num1 = 
 
          
         }
