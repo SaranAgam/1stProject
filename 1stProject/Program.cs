@@ -6,7 +6,7 @@ namespace _1stProject
     {
         static void Main()
         {
-            Console.Write("Enter an
+            Console.Write("Enter
 
          
         }
